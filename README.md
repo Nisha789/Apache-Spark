@@ -40,22 +40,16 @@ These notebooks are organized to help you understand essential PySpark operation
 
 ## ⚙️ Setup in Google Colab
 
-Since Google Colab does not come with PySpark pre-installed, you can install it by adding the following code at the beginning of each notebook:
-
-```python
-!pip install pyspark
+Since Google Colab does not come with PySpark pre-installed, you can install it by adding the following code at the beginning of each notebook: `!pip install pyspark`
 Additionally, for any specific Spark configurations, you can set them up as needed within each notebook.
 
-🎯 Usage
-Open the notebook file on Google Colab.
-Run the setup cell to install PySpark:
-python
-Copy code
-!pip install pyspark
+## 🎯 Usage
+- Open the notebook file on Google Colab.
+- Run the setup cell to install PySpark: `!pip install pyspark`
 Follow the instructions within each notebook to complete the exercises.
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! If you have new exercises, bug fixes, or improvements, feel free to fork this repository and submit a pull request.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
